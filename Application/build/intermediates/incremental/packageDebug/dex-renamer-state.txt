@@ -1,0 +1,7 @@
+#Tue Sep 20 22:50:56 EDT 2016
+base.0=/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3263ec2df6073c1b5a00ddad2e3576fb12d0f03d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9698d0e4d2cd6f030612c026fe63c464a82d37b3/classes.dex
+base.1=/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9698d0e4d2cd6f030612c026fe63c464a82d37b3
+file.0=/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3263ec2df6073c1b5a00ddad2e3576fb12d0f03d/classes.dex

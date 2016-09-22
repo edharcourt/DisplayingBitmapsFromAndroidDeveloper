@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/edharcourt/AndroidStudioProjects/DisplayingBitmaps/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
